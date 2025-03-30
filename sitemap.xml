@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://blog.gdalvi.com</loc>
-<lastmod>2025-03-30T15:29:29.648Z</lastmod>
+<loc>https://blog.gauravdalvi.com</loc>
+<lastmod>2025-03-30T15:32:43.795Z</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1</priority>
 </url>
 <url>
-<loc>https://blog.gdalvi.com/unlocking-the-power-of-the-console-object-beyond-console-log</loc>
+<loc>https://blog.gauravdalvi.com/unlocking-the-power-of-the-console-object-beyond-console-log</loc>
 <lastmod>2025-03-30T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://blog.gdalvi.com/mastering-minikube-a-deep-dive-beyond-the-basics</loc>
+<loc>https://blog.gauravdalvi.com/mastering-minikube-a-deep-dive-beyond-the-basics</loc>
 <lastmod>2025-03-28T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://blog.gdalvi.com/what-is-webpack</loc>
+<loc>https://blog.gauravdalvi.com/what-is-webpack</loc>
 <lastmod>2025-03-23T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
