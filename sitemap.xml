@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://blog.gauravdalvi.com</loc>
-<lastmod>2025-04-11T14:25:49.047Z</lastmod>
+<lastmod>2025-04-14T11:32:58.598Z</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://blog.gauravdalvi.com/write-code-like-a-pro-mastering-the-solid-principles</loc>
+<lastmod>2025-04-08T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://blog.gauravdalvi.com/microservices-because-monoliths-are-so-2009</loc>
