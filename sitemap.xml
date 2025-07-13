@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://blog.gauravdalvi.com</loc>
-<lastmod>2025-07-08T15:29:31.509Z</lastmod>
+<lastmod>2025-07-13T15:47:57.114Z</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://blog.gauravdalvi.com/meta-tags-in-html-for-seo-the-complete-guide</loc>
+<lastmod>2025-05-26T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://blog.gauravdalvi.com/demystifying-web-components-in-javascript-the-native-way-to-build-reusable-ui</loc>
