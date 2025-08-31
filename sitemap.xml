@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://blog.gauravdalvi.com</loc>
-<lastmod>2025-07-15T15:43:03.378Z</lastmod>
+<lastmod>2025-08-31T15:58:53.328Z</lastmod>
 <changefreq>yearly</changefreq>
 <priority>1</priority>
+</url>
+<url>
+<loc>https://blog.gauravdalvi.com/progressive-web-apps-pwas-the-future-of-the-web</loc>
+<lastmod>2025-06-19T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
 </url>
 <url>
 <loc>https://blog.gauravdalvi.com/frontend-architectures-a-complete-guide-for-2025</loc>
