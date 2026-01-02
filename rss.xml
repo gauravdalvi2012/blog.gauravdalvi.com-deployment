@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+>
+  <channel>
+    <title>Gaurav Dalvi – Blog</title>
+    <link>https://blog.gauravdalvi.com</link>
+    <description>Technical writing on frontend, systems, and performance</description>
+    <language>en-us</language>
+
+    <atom:link
+      href="https://blog.gauravdalvi.com/rss.xml"
+      rel="self"
+      type="application/rss+xml"
+    />
+
+    <lastBuildDate>Fri, 02 Jan 2026 18:28:43 GMT</lastBuildDate>
+    <generator>Next.js App Router</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <ttl>60</ttl>
+
+    
+        <item>
+          <title><![CDATA[Progressive Web Apps (PWAs): The Future of the Web]]></title>
+          <link>https://blog.gauravdalvi.com/progressive-web-apps-pwas-the-future-of-the-web</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/progressive-web-apps-pwas-the-future-of-the-web</guid>
+          <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Learn what Progressive Web Apps (PWAs) are, why they matter, and how to build fast, offline-ready, app-like experiences directly on the web.
+          ]]></description>
+          <category>Frontend</category><category>Web Performance</category><category>Architecture</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Frontend Architectures: A Complete Guide for 2025]]></title>
+          <link>https://blog.gauravdalvi.com/frontend-architectures-a-complete-guide-for-2025</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/frontend-architectures-a-complete-guide-for-2025</guid>
+          <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — A complete guide to modern frontend architectures—SPA, SSR, SSG, MPA, and micro-frontends—with comparisons, use cases, and best practices.
+          ]]></description>
+          <category>Frontend</category><category>Architecture</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Meta Tags in HTML for SEO: The Complete Guide]]></title>
+          <link>https://blog.gauravdalvi.com/meta-tags-in-html-for-seo-the-complete-guide</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/meta-tags-in-html-for-seo-the-complete-guide</guid>
+          <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Understand how HTML meta tags help improve SEO and control how your site appears in search results—with examples and key best practices.
+          ]]></description>
+          <category>Frontend</category><category>Web Performance</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Demystifying Web Components in JavaScript: The Native Way to Build Reusable UI]]></title>
+          <link>https://blog.gauravdalvi.com/demystifying-web-components-in-javascript-the-native-way-to-build-reusable-ui</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/demystifying-web-components-in-javascript-the-native-way-to-build-reusable-ui</guid>
+          <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            6 min read — Learn how to build reusable, encapsulated UI with native JavaScript using Web Components—no frameworks required.
+          ]]></description>
+          <category>JavaScript</category><category>Frontend</category><category>Architecture</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Checksums: The Unsung Heroes of Data Integrity]]></title>
+          <link>https://blog.gauravdalvi.com/checksums-the-unsung-heroes-of-data-integrity</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/checksums-the-unsung-heroes-of-data-integrity</guid>
+          <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — A fun and practical deep dive into checksums—what they are, how they work, and why they matter for data integrity and security.
+          ]]></description>
+          <category>Systems</category><category>Security</category><category>Deep Dive</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[CSR vs SSR vs SSG — The Frontend Rendering Smackdown]]></title>
+          <link>https://blog.gauravdalvi.com/csr-vs-ssr-vs-ssg-the-frontend-rendering-smackdown</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/csr-vs-ssr-vs-ssg-the-frontend-rendering-smackdown</guid>
+          <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Learn the differences between CSR, SSR, and SSG in web development to choose the optimal rendering strategy for performance, SEO, and scalability.
+          ]]></description>
+          <category>Frontend</category><category>Architecture</category><category>Web Performance</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Git Hooks — The Developer's Silent Sidekick]]></title>
+          <link>https://blog.gauravdalvi.com/git-hooks-the-developers-silent-sidekick</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/git-hooks-the-developers-silent-sidekick</guid>
+          <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Master Git Hooks to automate code checks, enforce commit rules, and boost your workflow.
+          ]]></description>
+          <category>Tooling</category><category>DevOps</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Essential Linux Commands Every Developer Should Master]]></title>
+          <link>https://blog.gauravdalvi.com/essential-linux-commands-every-developer-should-master</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/essential-linux-commands-every-developer-should-master</guid>
+          <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — Essential Linux commands for developers to navigate, manage files, control processes, and automate tasks efficiently.
+          ]]></description>
+          <category>Tooling</category><category>DevOps</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Write Code Like A Pro: Mastering The SOLID Principles]]></title>
+          <link>https://blog.gauravdalvi.com/write-code-like-a-pro-mastering-the-solid-principles</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/write-code-like-a-pro-mastering-the-solid-principles</guid>
+          <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Learn SOLID principles with real-world examples to write clean, maintainable, and scalable code.
+          ]]></description>
+          <category>Architecture</category><category>Best Practices</category><category>Systems</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Microservices: Because Monoliths Are So 2009]]></title>
+          <link>https://blog.gauravdalvi.com/microservices-because-monoliths-are-so-2009</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/microservices-because-monoliths-are-so-2009</guid>
+          <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — A practical deep dive into microservices architecture, design principles, common pitfalls, and when you actually need them.
+          ]]></description>
+          <category>Architecture</category><category>Systems</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[JavaScript’s Event Loop — Explained Like You're Five (But With More Sarcasm)]]></title>
+          <link>https://blog.gauravdalvi.com/javascript-event-loop-explained-like-youre-five-but-with-more-sarcasm</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/javascript-event-loop-explained-like-youre-five-but-with-more-sarcasm</guid>
+          <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            5 min read — Ever wonder why setTimeout acts weird? Meet the event loop — JavaScript's behind-the-scenes wizard.
+          ]]></description>
+          <category>JavaScript</category><category>Browser Internals</category><category>Deep Dive</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[How Does the Internet Work? (A.k.a. The Most Epic Game of Digital Hide and Seek)]]></title>
+          <link>https://blog.gauravdalvi.com/how-does-the-internet-work-aka-the-most-epic-game-of-digital-hide-and-seek</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/how-does-the-internet-work-aka-the-most-epic-game-of-digital-hide-and-seek</guid>
+          <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — A comprehensive explanation of how the internet works, covering DNS, HTTP, servers, and data transmission in a clear and accessible way.
+          ]]></description>
+          <category>Systems</category><category>Browser Internals</category><category>Deep Dive</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Unlocking the Power of the Console Object: Beyond console.log()]]></title>
+          <link>https://blog.gauravdalvi.com/unlocking-the-power-of-the-console-object-beyond-console-log</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/unlocking-the-power-of-the-console-object-beyond-console-log</guid>
+          <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — Unlock the full potential of the JavaScript console object with powerful debugging tricks beyond console.log()—optimize performance, track calls, and debug smarter!
+          ]]></description>
+          <category>JavaScript</category><category>Tooling</category><category>Best Practices</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[Mastering Minikube: A Deep Dive Beyond the Basics]]></title>
+          <link>https://blog.gauravdalvi.com/mastering-minikube-a-deep-dive-beyond-the-basics</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/mastering-minikube-a-deep-dive-beyond-the-basics</guid>
+          <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            4 min read — Unlock Minikube's full potential with advanced features, optimizations, and pro tips for a seamless local Kubernetes experience.
+          ]]></description>
+          <category>DevOps</category><category>Tooling</category><category>Deep Dive</category>
+        </item>
+      
+        <item>
+          <title><![CDATA[What is Webpack?]]></title>
+          <link>https://blog.gauravdalvi.com/what-is-webpack</link>
+          <guid isPermaLink="true">https://blog.gauravdalvi.com/what-is-webpack</guid>
+          <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+          <description><![CDATA[
+            3 min read — How Webpack makes your JavaScript, CSS, and assets faster and more efficient.
+          ]]></description>
+          <category>Frontend</category><category>Tooling</category><category>Architecture</category>
+        </item>
+      
+  </channel>
+</rss>
